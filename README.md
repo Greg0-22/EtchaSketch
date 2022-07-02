@@ -10,3 +10,7 @@ left off as i discovered css variables and logic. going to attempt to allow for 
     easier would be having them input a number, but that doesnt look very special
 
 with all of these fundamental projects, im looking to improve my understanding and work through problem solving. i may eventually revisit some projects and attempt to design them better, but at the moment im focusing only on the functionality and secondly, ease of use.
+
+Finish Date: July 1, 2022
+
+I have a lot to learn. Also, seeing that CSS and styling choices are difficult to make without an idea first. All of this is much more difficult without mapping out what needs to be done and in what order.

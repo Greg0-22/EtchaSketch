@@ -1,12 +1,33 @@
-.container {
-    display: grid;
-    /* grid-template-columns: 100px 50px 100px;
-    grid-template-rows: 80px auto 80px;
-    column-gap: 10px;
-    row-gap: 15px; */
+.flex-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(rgba(96, 79, 252, 0.082), white);
 }
 
-.grid-row {
-    border: 1px solid;
-    border-color: black;
+.mode {
+    padding-bottom: 5px;
+    color: green;
+}
+
+.gridboard {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.select-button {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
 }
